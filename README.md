@@ -101,5 +101,9 @@ v3.4版本：添加了调用FFmpeg转码的功能。这样可以使任何主流�
 
 v3.5版本：添加了淡入淡出，3D环绕声和FFT滤波的功能。重构了代码，减少了音频数据在处理时因计算机字长而造成的差错。
 
+### Update on March 14th, 2023
+
+v3.5.1与v3.5.2版本：修复了程序中出现的部分Bug；为后续兼容即时编译(JIT)的Numba库与Cython相关用法做了“铺垫”。
+
 ## Statistics of Visiting Numbers  访问次数统计
 <div>Number of Total Visits: &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=Duyu09_NEW_Audio-Management_Core" /></div> 
