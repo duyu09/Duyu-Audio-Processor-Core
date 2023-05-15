@@ -25,7 +25,7 @@ All rights reserved.
 
 All of the DAPC source code is licensed under the Apache 2.0 license.
 
-<br>
+<img src="https://github.com/duyu09/Audio-Processing-Website/assets/92843163/b1ba666d-840c-4365-8975-65a33b8d7517" style="width:25%">
 
 DAPC软件系统Python源代码：
 
