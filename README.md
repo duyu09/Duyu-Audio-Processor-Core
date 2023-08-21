@@ -101,4 +101,8 @@ v3.5版本：添加了淡入淡出，3D环绕声和FFT滤波的功能。重构�
 v3.5.1与v3.5.2版本：修复了程序中出现的部分Bug；为后续兼容即时编译(JIT)的Numba库与Cython相关用法做了“铺垫”。
 
 ## Statistics of Visiting Numbers  访问次数统计
-<div>Number of Total Visits: &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=Duyu09_NEW_Audio-Management_Core" /></div> 
+
+<div><b>Number of Total Visits (All of Duyu09's GitHub Projects): </b><br><img src="https://profile-counter.glitch.me/duyu09/count.svg" /></div> 
+
+<div><b>Number of Total Visits (DAPC): </b><br><img src="https://profile-counter.glitch.me/duyu09-DAPC/count.svg" /></div> 
+
