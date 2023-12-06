@@ -13,11 +13,13 @@
 - 软件中文全称：DuYu音频处理器核心程序
 - 软件功能：简单处理主流格式的音频文件，诸如：变换采样格式，增益衰减，声道混缩，混响回声效果，调整速度与音调，剪切，混合，添加静音，淡入淡出效果，FFT滤波，3D环绕声音效等。
 - 项目开工时间：2020年05月02日
-- 项目中使用的第三方软件：Sonic Library, FFmpeg.
-- 软件发行版下载地址：https://github.com/duyu09/Duyu-Audio-Processor-Core/releases
+- 最后更新时间与最新版本：2023年03月14日 v3.5.2.
+- 项目中使用的第三方开源软件：Sonic Library, FFmpeg.
+- 软件发行版下载地址：https://github.com/duyu09/Duyu-Audio-Processor-Core/releases/
+- 中文官方网站：https://www.duyu09.site/dapc/dapc.html
 - 简单使用方法:
   - 基本使用方法：
-`dapc -i inputFile -o outputFile --output-option sampleRate bitDepth`
+`dapc -i <inputFile> -o [outputFile] --output-option [sampleRate] [bitDepth]`
   - 更多用法和细节：
 `dapc -h`
 
@@ -80,6 +82,18 @@ v3.5版本：添加了淡入淡出，3D环绕声和FFT滤波的功能。重构�
 - #### Update on March 14th, 2023
 
 v3.5.1与v3.5.2版本：修复了程序中出现的部分Bug；为后续兼容即时编译(JIT)的Numba库与Cython相关用法做了“铺垫”。
+
+### LINKS 友情链接
+
+- 齐鲁工业大学(山东省科学院) 计算机科学与技术学部 http://jsxb.scsc.cn/
+  
+- 山东省计算中心(国家超级计算济南中心) https://www.nsccjn.cn/
+
+- FFMPEG官方网站 https://ffmpeg.org/
+
+- DuYu的个人网站 https://www.duyu09.site/
+
+- DuYu的GitHub网站 https://github.com/duyu09/
 
 ### Statistics of Visiting Numbers  访问次数统计
 
